@@ -16,6 +16,8 @@ html {
 
 ul {
     list-style: none;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .header-title {
