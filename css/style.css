@@ -65,12 +65,13 @@ html {
     background-size: cover;
     background-position: center;
     height: 100vh;
-    min-width: 100%;
+    width: 100%;
 }
 
 .bg-dark {
     background-image: linear-gradient(rgba(10, 10, 10, 1), rgba(0, 255, 0, 0.1), rgba(10, 10, 10, 1));
     background-color: #000;
+    width: 100%;
 }
 
 .transparent-box {
@@ -110,8 +111,8 @@ html {
 .img-home {
     display: flex;
     justify-content: center;
-    width: 500px;
-    height: 220px;
+    width: 30vw;
+    height: 35vh;
     border: 2px solid rgba(0,0,0,0.7);
     border-radius: 7px 0 0 7px;
 }
