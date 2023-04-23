@@ -65,6 +65,7 @@ html {
     background-size: cover;
     background-position: center;
     height: 100vh;
+    min-width: 100%;
 }
 
 .bg-dark {
